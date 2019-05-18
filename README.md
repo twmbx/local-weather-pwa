@@ -25,3 +25,10 @@ Open up [localhost:3000](http://localhost:3000) and start clicking around.
 ![Current Weather](Screenshot_1.png)
 ![Five Day Forecast](Screenshot_2.png)
 ![PWA Add To Homescreen](Screenshot_3.png)
+
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+Made with :heart: in :zambia:
